@@ -8,7 +8,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "VdFlEL76",
-    "auto_welcomeMsg": false,
+    "auto_welcomeMsg": true,
     "auto_leaveMsg": false,    
     "autobio": true,
     "anticall": true,
